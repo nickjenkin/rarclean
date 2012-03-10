@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import rarfile, os, optparse, glob
 
 parser = optparse.OptionParser()
